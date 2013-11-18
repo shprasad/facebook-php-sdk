@@ -10,7 +10,7 @@ the Facebook PHP SDK is licensed under the Apache Licence, Version 2.0
 
 
 Usage
------
+------
 
 The [examples][examples] are a good place to start. The minimal you'll need to
 have is:
